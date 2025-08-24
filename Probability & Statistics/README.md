@@ -73,27 +73,42 @@ Use the syllabus below as a study guide
 
 ## Recommended Books (short list)
 - *Introduction to Probability* (Blitzstein & Hwang) — clear, exercise-heavy text. [Course Page](https://web.stanford.edu/class/cs109/) 
-- *Think Stats* (Allen B. Downey) — practical, Python-oriented approach. :contentReference[oaicite:1]{index=1}  
-- *Mathematics for Machine Learning* (Deisenroth, Faisal, Ong) — ML-focused math foundations (includes probability-relevant chapters). :contentReference[oaicite:2]{index=2}
+- *Think Stats* (Allen B. Downey) — practical, Python-oriented approach.  
+- *Mathematics for Machine Learning* (Deisenroth, Faisal, Ong) — ML-focused math foundations (includes probability-relevant chapters).
 
 ---
 
 ## Best Online Courses & Lectures
-- **Stanford — CS109: Probability for Computer Scientists** — practical, example-driven probability course, widely recommended for ML foundations.  :contentReference[oaicite:5]{index=5}
-- **Harvard — Stat 110: Probability (Joe Blitzstein)** — excellent lecture notes, problems, and video lectures. :contentReference[oaicite:3]{index=3}  
-- **MIT OCW — Probabilistic Systems Analysis / Introduction to Probability (6.041 / 6.431 / res-6.012 materials)** — rigorous course materials and problem sets. :contentReference[oaicite:4]{index=4}  
-- **Khan Academy — Statistics & Probability** — approachable bite-sized lessons and practice problems for fundamentals. :contentReference[oaicite:5]{index=5}
+
+- **Harvard — Stat 110: Probability (Joe Blitzstein)**  
+  [Course Page](https://projects.iq.harvard.edu/stat110) | [YouTube Lectures](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+
+- **MIT OCW — Probabilistic Systems Analysis / Introduction to Probability (6.041/6.431)**  
+  [Course Page](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)  
+
+- **Stanford — CS109: Probability for Computer Scientists**  
+  [Course Page](https://web.stanford.edu/class/cs109/) | [YouTube Lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
+- **Khan Academy — Statistics & Probability**  
+  [Course Page](https://www.khanacademy.org/math/statistics-probability)
 
 ---
 
 ## Interactive & Video Resources
-- **StatQuest (Josh Starmer)** — short, clear videos that explain intuition behind statistical methods and ML-relevant ideas. :contentReference[oaicite:6]{index=6}  
-- **Seeing Theory** — interactive visualizations to build intuition for probability and inference. :contentReference[oaicite:7]{index=7}
+
+- **StatQuest with Josh Starmer (YouTube)** — short, clear explanations of probability and statistics concepts.  
+  [YouTube Channel](https://www.youtube.com/user/joshstarmer)
+
+- **Seeing Theory** — interactive visualizations for probability, statistics, and inference concepts.  
+  [Website](https://seeing-theory.brown.edu/)
+
+- **3Blue1Brown: Essence of Probability (YouTube)** — visual and intuitive explanations of core probability concepts.  
+  [YouTube Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ---
 
 ## Hands-on Practice
-- Work through problems from Blitzstein & Hwang (lots of practice problems). :contentReference[oaicite:8]{index=8}  
+- Work through problems from Blitzstein & Hwang (lots of practice problems). 
 - Implement simulations and estimators in Python (use `numpy`, `scipy`, `pandas`); try small Monte Carlo experiments to build intuition.
 
 ---
